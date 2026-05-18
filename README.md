@@ -40,3 +40,20 @@ Supports:
 
 ```excel
 =SGX_PRICE("SGX:ES3", $E$1)
+
+### NAV
+
+```Excel Formula
+
+=SGX_NAV("SGX:A7RU", $E$1)
+
+### P/E Ratio
+
+```Excel Formula
+=SGX_PE("SGX:CLR", $E$1)
+
+### Notes
+
+Yahoo Finance APIs are unofficial and may change.
+Refresh checkbox can force recalculation.
+Intended for educational/personal dashboard use.
