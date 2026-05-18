@@ -28,7 +28,7 @@ Supports:
 
 1. Open Google Sheets
 2. Extensions → Apps Script
-3. Paste `sgx-dashboard.gs`
+3. Paste `dashboard-support.gs`
 4. Save project
 5. Reload spreadsheet
 
